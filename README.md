@@ -1,6 +1,6 @@
 # Marlin-1.1.9-CL-260
-Marlin 1.1.9 Configuration.h for CL-260. Including Mesh Bed Leveling
+Marlin 1.1.9 Configuration.h for CL-260. Including Mesh Bed Leveling, SD Card Support.
 
 This is a working config with extended LCD Menus for Homing and Mesh Bed Leveling. 
-E0 is inverted wit 435 Steps/mm
-Manual Mesh bed Leveling via Menu start 7x7 Point Measurement.
+E0 is inverted with 435 Steps/mm for Bondtech Clone
+Manual Mesh bed Leveling via Menu start 6x6 Point Measurement.
